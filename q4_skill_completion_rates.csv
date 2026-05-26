@@ -1,0 +1,6 @@
+skill_name,students_completed,total_students,completion_rate_pct
+"Python Basics",10,25,40.00
+"SQL Fundamentals",8,25,32.00
+"Data Structures",5,25,20.00
+"Machine Learning",3,25,12.00
+"System Design",2,25,8.00
